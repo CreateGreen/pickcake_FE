@@ -104,6 +104,13 @@ body {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+.fieldError {
+   border-color: #bd2130;
+}
+
+.brand-name-2 {
+  color : #6236FF;
+}
 
 hr {
   margin: 1rem 0;
